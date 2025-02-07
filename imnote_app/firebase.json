@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"imnote-app","appId":"1:606133622181:android:e0cc739db190409c4b444c","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"imnote-app","configurations":{"android":"1:606133622181:android:e0cc739db190409c4b444c","ios":"1:606133622181:ios:12ee08bbf7d6e31f4b444c"}}}}}}

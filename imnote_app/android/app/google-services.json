@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606133622181",
+    "project_id": "imnote-app",
+    "storage_bucket": "imnote-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606133622181:android:e0cc739db190409c4b444c",
+        "android_client_info": {
+          "package_name": "com.example.imnote_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2K1dT80oJDYXj-e3SLYxWLdkkG0T5B_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
